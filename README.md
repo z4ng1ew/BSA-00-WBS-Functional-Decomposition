@@ -1,7 +1,5 @@
 
-## 🎯 **Название проекта (чтобы зацепить HR):**
-
-> **«BSA-00-WBS-Functional-Decomposition»**
+## **«BSA-00-WBS-Functional-Decomposition»**
 
 ---
 
